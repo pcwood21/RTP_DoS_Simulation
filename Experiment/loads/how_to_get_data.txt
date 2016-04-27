@@ -1,0 +1,5 @@
+The NYISO data used here is available online at:
+
+http://www.nyiso.com/public/markets_operations/market_data/load_data/index.jsp
+
+The Load Forecast and Actual Load Real-Time can be downloaded as zip files of .csv documents that go into the subfolders of this directory.
